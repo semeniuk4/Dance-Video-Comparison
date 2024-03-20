@@ -129,8 +129,8 @@ def compare_videos(path1, path2):
         scores[key] = 1 / (1 + distance)
     return scores
 
-video_path1 = '/Users/ivansemeniuk/Downloads/studio-3.mov'
-video_path2 = '/Users/ivansemeniuk/Downloads/calm-down-2.mp4'
+video_path1 = 'VIDEO1 Path'
+video_path2 = 'VIDEO2 Path'
 
 scores = compare_videos(video_path1, video_path2)
 

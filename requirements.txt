@@ -1,0 +1,4 @@
+scikit-learn==1.4.1.post1
+mediapipe==0.10.9
+dtaidistance==2.3.11
+opencv-python==4.9.0.80
